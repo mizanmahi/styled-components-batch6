@@ -1,9 +1,5 @@
-
-
 function App() {
-   return (
-      <div></div>
-   );
+   return <div>Lets practice styled component</div>;
 }
 
 export default App;
